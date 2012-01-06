@@ -1,0 +1,14 @@
+This is a simple implementation of logistic regresion in c++.
+Please refer to the paper:
+
+http://people.csail.mit.edu/jrennie/writing/lr.pdf
+
+for more details.
+
+How to run:
+
+cd your_path_to_lr
+./make
+./lr heart_scale
+
+heart_scale is the testing data
